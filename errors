@@ -1,0 +1,11 @@
+Type of error:
+NameError: uninitialized constant DockingStation
+
+File path where the error happened:
+from /Users/minci/.rbenv/versions/2.2.3/bin/irb:11:in `<main>'
+
+Line number of the error:
+from (irb):2
+
+Ruby Documentation to find out what the error means
+Suggest one way of solving the error
